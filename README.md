@@ -1,4 +1,7 @@
-# kickstart.nvim
+# nvim
+
+## My neovim config
+Forked from https://www.github.com/nvim-lua/kickstart.nvim
 
 ## Introduction
 
